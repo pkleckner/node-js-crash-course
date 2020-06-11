@@ -1,0 +1,73 @@
+{
+    "files.exclude": {
+        "**/.git": false
+    },
+    
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#252525",
+        "titleBar.activeBackground": "#3c873a",
+        "titleBar.activeForeground": "#FAFCFE",
+    },
+
+    "better-comments.tags": [
+        {
+            // !! Warning
+            "tag": "!!",
+            "color": "#DF0F0F",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // ?? Question
+            "tag": "??",
+            "color": "#3755FC",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // // Canceled
+            "tag": "//",
+            "color": "#696969",
+            "strikethrough": true,
+            "backgroundColor": "transparent"
+        },
+        {
+            // ++ Todo
+            "tag": "++",
+            "color": "#F67006",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // == Section
+            "tag": "==",
+            "color": "#FDB100",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // ** General
+            "tag": "**",
+            "color": "#31B018",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // <> Code
+            "tag": "<>",
+            "color": "#FA8CCA",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            // >> Element
+            "tag": ">>",
+            "color": "#B476DC",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+}

@@ -1,0 +1,18 @@
+{
+  "name": "node-js-crash-course",
+  "version": "1.0.0",
+  "description": "Node.js Crash Course: Following the tutorial from Traversy Media at https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Patrick Kleckner",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
